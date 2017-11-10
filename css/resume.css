@@ -18,6 +18,29 @@ img {
 	border: 1px solid #ccc;
 	border-radius: 3px;
 	background-color: white;
+	
 }
 
-header>h1{font-family: coda-caption, sans-serif; font-weight: bold;}
+header>h1,h3{font-family: coda-caption, sans-serif; font-weight: bold;}
+
+#sep{
+	border: 2px solid #444;
+	max-width: 600px;
+	min-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+article{
+	font-family: anonymous-pro, sans-serif;
+}
+
+hr{
+	border:3px solid #444;
+	width: 50px;
+	margin-left: 0%;
+}
+
+header{
+	font-family: anonymous-pro, sans-serif;
+	line-height: 2px;
+}
