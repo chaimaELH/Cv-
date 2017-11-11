@@ -44,3 +44,15 @@ header{
 	font-family: anonymous-pro, sans-serif;
 	line-height: 2px;
 }
+
+
+a {
+	font-family: coda-caption, sans-serif;
+	font-weight: bold;
+	color: #444;
+	text-decoration: none;
+}	
+footer{
+    text-align: center;
+    padding: 15px
+}
