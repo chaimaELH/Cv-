@@ -1,0 +1,49 @@
+@media only screen and (max-width: 740px){
+}
+
+@media only screen and (max-width: 570px){
+	img{
+		float:none;
+		height: auto;
+   
+    }
+    html{
+    	width: 100%;
+    	margin: auto;
+    	text-align: center; 
+    }
+	
+	hr{
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	article{max-width: 570px;
+	margin-left: auto;
+	margin-right: 10%;}
+}
+
+}
+
+@media only screen and (max-width: 480px){
+	img{
+		float:none;
+		height: auto;
+   
+    }
+    html{
+    	width: 100%;
+    	margin: auto;
+    	text-align: center; 
+    }
+	
+	hr{
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	article{max-width: 400px;
+	margin-left: auto;
+	margin-right: 10%;}
+}
+
